@@ -7,7 +7,7 @@ I'm a passionate learner, builder, and problem-solver with a deep interest in **
 ### 🛠️ Technologies & Tools
 - **Languages**: Python, JavaScript, HTML/CSS
 - **Dev Tools**: Git, VS Code, GitHub
-- **Currently Learning**: React, Advanced JavaScript, C#, C++
+- **Currently Learning**: C, C++
 
 ---
 
